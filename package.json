@@ -1,0 +1,26 @@
+{
+  "name": "my-first-node",
+  "version": "1.0.0",
+  "description": "My first NodeJS tutorial from Udemy.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Juan Ignacio Nicolai",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.2",
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juaninicolai/my-first-node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/juaninicolai/my-first-node/issues"
+  },
+  "homepage": "https://github.com/juaninicolai/my-first-node#readme"
+}
